@@ -1,0 +1,12 @@
+bibtexparser==1.4.0
+certifi==2023.5.7
+charset-normalizer==3.1.0
+feedparser==6.0.10
+idna==3.4
+pyparsing==3.0.9
+python-dotenv==1.0.0
+pytz==2023.3
+pyzotero==1.5.18
+requests==2.30.0
+sgmllib3k==1.0.0
+urllib3==2.0.2
