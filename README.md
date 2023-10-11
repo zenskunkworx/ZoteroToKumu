@@ -10,7 +10,10 @@ Run:  pip (or pip3) install -r requirements.txt<br />
 Create file called .env with information from your Zotero account:<br />
 LIBRARY_TYPE=group    (for accessing a group library)<br />
 or LIBRARY_TYPE=user    (for accessing a user library)<br />
-LIBRARY_ID: (in a browser, navigate to the library you want to access and grab its ID from the URL)<br />
+
+LIBRARY_ID: Your personal library ID is [available here](https://www.zotero.org/settings/keys), in the section "Your userID for use in API calls"<br />
+For group libraries, the ID can be found by opening the group’s page: https://www.zotero.org/groups/groupname, and hovering over the group settings link. The ID is the integer after /groups/<br />
+
 ZOTERO_API_KEY=[create your api key here](https://www.zotero.org/settings/keys)<br />
 Save the .env file<br />
 
