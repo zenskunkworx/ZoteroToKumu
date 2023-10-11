@@ -19,4 +19,9 @@ Here's my .env file (for reference)<br />
 
 Run: python app.py    (or python3 app.py)<br />
 
+Here's a sample View setup in Kumu:<br />
+![image](https://github.com/zenskunkworx/ZoteroToKumu/assets/145480414/abac7ec5-03a3-4be7-9ee5-d0babe0b1f4d)<br />
+
+
+
 
