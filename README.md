@@ -7,7 +7,7 @@ Open a console and navigate to the folder<br />
 (Optional) If you use virtual environments, create one and activate it.<br />
 Run:  pip (or pip3) install -r requirements.txt<br />
 <br />
-Edit the .env file with information from your Zotero account:<br />
+Create file called .env with information from your Zotero account:<br />
 LIBRARY_TYPE=group    (for accessing a group library)<br />
 or LIBRARY_TYPE=user    (for accessing a user library)<br />
 LIBRARY_ID: (in a browser, navigate to the library you want to access and grab its ID from the URL)<br />
